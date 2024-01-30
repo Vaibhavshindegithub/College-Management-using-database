@@ -1,1 +1,1 @@
-# Student-Management-using-database
+# College-Management-using-database
